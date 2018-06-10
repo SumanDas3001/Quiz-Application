@@ -1,12 +1,15 @@
 # Quiz-Application
-Tech Stuff:
+TECH STUFF:
 - Object oriented PHP
 - JavaScript
 - Css3
 - Bootstarp 3.3.7
 - Mysql
 
-Features:
+EDITOR:
+ Visule Studio Code
+
+_____________________________________________________ Features ______________________________________________________________
 
 USER SECTION
 - Responsive UI
