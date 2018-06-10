@@ -21,10 +21,10 @@ USER SECTION
 - User can see their exam result after submit 
 - user can see No.. of question, Correct Answer, Wrong Answer, unanswered questions, Persentage of result. 
 
-Admin Section 
+ADMIN SECTION 
 - Admin can add questions on category
 
-Pending Project Work
+PENDING PROJECT WORK
 - Admin login page
 - Admin Registartion page
 - Create catagory
