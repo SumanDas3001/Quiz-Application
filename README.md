@@ -1,5 +1,6 @@
 > Quiz-Application
-TECH STUFF:
+
+###TECH STUFF:
 - Object oriented PHP
 - JavaScript
 - Css3
