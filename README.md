@@ -1,4 +1,4 @@
-# Quiz-Application
+> Quiz-Application
 TECH STUFF:
 - Object oriented PHP
 - JavaScript
@@ -9,8 +9,7 @@ TECH STUFF:
 EDITOR:
  Visule Studio Code
 
-###
-USER SECTION
+> USER SECTION
 - Responsive UI
 - Access controll
 - Display User's details with photo
