@@ -23,7 +23,7 @@
 ## ADMIN SECTION 
 - Admin can add questions on category
 
-*_ PENDING PROJECT WORK
+*_ PENDING PROJECT WORK _*
 - Admin login page
 - Admin Registartion page
 - Create catagory
