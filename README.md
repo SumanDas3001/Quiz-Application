@@ -9,8 +9,7 @@ TECH STUFF:
 EDITOR:
  Visule Studio Code
 
-_____________________________________________________ Features ______________________________________________________________
-
+###
 USER SECTION
 - Responsive UI
 - Access controll
